@@ -1,7 +1,4 @@
 import Link from "next/link";
-import ins from '../Public/instagram.png';
-import git from '../Public/download.png';
-import li from '../Public/linkedin.png';
 import Image from "next/image";
 
 const Footer = () => {
